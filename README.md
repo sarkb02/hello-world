@@ -1,3 +1,3 @@
 # hello-world
-Vorerst Python-Übungen und mehr?
+Vorerst Python-Übungen und Github Tutorial
 Ich heiße Boróka.
